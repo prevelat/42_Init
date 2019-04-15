@@ -1,0 +1,1 @@
+To get my DNS complete path i would man dig, what would give me the default access information file if no parameter is given, then i would "readlink" to check if the file is a symlink link or is the real file.

@@ -1,0 +1,1 @@
+By using readlink on /etc/hosts we can see that its not a symlink, being the local DNS entries file.

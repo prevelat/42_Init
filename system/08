@@ -1,0 +1,1 @@
+If there are keys already generated the file would be ~/.ssh/id_rsa or, if not created, they can be created with the command ssh-keygen
